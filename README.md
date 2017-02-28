@@ -12,7 +12,7 @@ This tool is made to automatically crack Crome Tuning software into Dealer Editi
 
 1. Load the file and that's it !
 
-Once the file is loaded, the program start cracking the file and then ask for to save the new modified one. This shouldn't even take 1sec !
+Once the file is loaded, the program start cracking the file and then ask you to save the new modified one. This shouldn't even take 1sec !
 
 #Terms & Condition :
 
