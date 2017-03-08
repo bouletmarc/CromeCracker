@@ -20,5 +20,9 @@ Once the file is loaded, the program start cracking the file and then ask you to
 
 It is free to use and it will always stay FREE.
 
+# Donations :
 
+You can donate to me using [This Link][].
+
+[This Link]: <https://www.paypal.me/bouletmarc>
 [HERE]: <https://github.com/bouletmarc/CromeCracker/archive/master.zip>
