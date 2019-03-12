@@ -1,0 +1,8 @@
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\bin\Debug\CromeCracker.exe
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\bin\Debug\CromeCracker.pdb
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.csprojResolveAssemblyReference.cache
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.Form1.resources
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.Properties.Resources.resources
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.csproj.GenerateResource.Cache
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.exe
+c:\users\coco\documents\visual studio 2015\Projects\CromeCracker\CromeCracker\obj\Debug\CromeCracker.pdb
